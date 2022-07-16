@@ -1,0 +1,52 @@
+		
+		*{
+			margin:  0px;
+			border:  0px;
+			padding: 0px;
+		}
+
+		h1{
+			margin: 15px;
+			font-family: arial;
+			color: darkgreen;
+			text-align: center;
+		}
+		h2{
+			margin: 30px;
+			font-family: arial;
+			color: darkblue;
+		}
+		h3{
+			font-family: arial;
+		}
+		p{
+			margin: 23px;
+			text-align: justify;
+			font-family: arial;
+			font-size: 18px;
+			color: dark;
+		}
+
+		#imagem-top{
+			background-color: #FF8C00;
+			text-align: center;
+		}
+		footer{
+			font-family: arial;
+			background-color: #FF8C00;
+			text-align: left;	
+		}
+		img{
+			width: 50%;
+			height: 50%;
+		}
+		.contato{
+			font-size: 1.3em;
+		}
+		.cliente{
+			text-align: center;
+			color: black;
+			font-family: arial;
+
+
+		}
