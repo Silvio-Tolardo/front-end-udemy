@@ -131,7 +131,7 @@
 			display: grid;
 			grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
 			grid-gap:  10px;
-			max-width: 1250px;
+			max-width: 1000px;
 			margin:  0 auto;
 			padding:  5px;
 			box-shadow:  inherit;
@@ -188,7 +188,7 @@
 		}
 		@media(min-width:  30px) and (max-width: 450px){
 
-			nav:{
+			nav{
 			font-family:  arial;
 			font-size:  1.6rem;
 			font-weight:  bold;
@@ -266,6 +266,6 @@
 		.imagem-grid{
 			transition:  300ms ease-in-out;
 		}
-		img:hover:{
-			transform:  translate(2%, 2%) scale(2);
+		img:hover{
+			transform:  translate(2%, 2%) scale(1);
 		}
